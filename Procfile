@@ -1,0 +1,1 @@
+web: gunicorn sfdstudents.wsgi --log-file -
